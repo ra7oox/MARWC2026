@@ -1,0 +1,385 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "history": "Histoire",
+    "squad": "Effectif",
+    "legends": "Légendes",
+    "staff": "Staff",
+    "stadiums": "Stades",
+    "button": "Squad 2026"
+  },
+  "hero": {
+    "tagline": "Coupe du Monde FIFA 2026",
+    "title_1": "Les Lions",
+    "title_2": "de l'Atlas",
+    "description": "Après l'épopée historique du Qatar en 2022, l'équipe nationale du Maroc s'apprête à rugir de nouveau sur le sol américain, canadien et mexicain. Rejoignez l'aventure d'une nation guidée par la passion et le rêve d'étoile.",
+    "cta_discover": "Découvrir l'équipe",
+    "cta_history": "Notre Histoire",
+    "countdown_title": "Mondial 2026",
+    "countdown_match": "Tirage au sort à venir",
+    "countdown_sub": "Coupe du Monde • Phase de groupes",
+    "matchday": "Jour de Match !",
+    "days": "Jours",
+    "hours": "Heures",
+    "min": "Min",
+    "sec": "Sec"
+  },
+  "stats": {
+    "participations": "Participations en Coupe du Monde",
+    "best_result": "Meilleur résultat (Qatar 2022)",
+    "fifa_rank": "Classement FIFA actuel",
+    "african_first": "1ère Nation Africaine & Arabe"
+  },
+  "history": {
+    "1970": {
+      "anecdote": "Le Maroc devient le premier pays africain à se qualifier via des éliminatoires directs et marque l'histoire en tenant tête à la RFA (défaite honorable 2-1) et en décrochant un match nul contre la Bulgarie (1-1)."
+    },
+    "1986": {
+      "anecdote": "Un exploit retentissant ! Les Lions de l'Atlas terminent premiers d'un groupe relevé devant l'Angleterre, la Pologne et le Portugal (victoire mémorable 3-1). Ils s'inclinent de justesse en 8es face à la RFA sur un coup franc tardif de Lothar Matthäus (1-0). Le Maroc devient la première nation africaine et arabe à atteindre ce stade."
+    },
+    "1994": {
+      "anecdote": "Malgré un jeu plaisant et la présence de joueurs talentueux, l'équipe subit trois défaites serrées dans un groupe difficile comprenant la Belgique, l'Arabie Saoudite et les Pays-Bas."
+    },
+    "1998": {
+      "anecdote": "Une aventure cruelle. Emmenés par un Mustapha Hadji étincelant, les Lions séduisent la planète football. Après un nul contre la Norvège (2-2) et une défaite contre le Brésil (3-0), ils écrasent l'Écosse (3-0). Ils sont pourtant éliminés à la dernière minute à cause d'un penalty litigieux accordé à la Norvège contre le Brésil."
+    },
+    "2018": {
+      "anecdote": "De retour après 20 ans d'absence sous la direction d'Hervé Renard. Les Lions de l'Atlas déploient un football séduisant mais manquent d'efficacité. Ils font trembler l'Espagne (2-2) et s'inclinent injustement face au Portugal de Ronaldo (1-0) après une domination totale."
+    },
+    "2022": {
+      "anecdote": "L'épopée dorée qui a bouleversé le football mondial. Premier de son groupe (nul face à la Croatie, victoires face à la Belgique 2-0 et le Canada 2-1), le Maroc élimine ensuite l'Espagne aux tirs au but en 8es de finale grâce aux arrêts héroïques de Bounou, puis le Portugal de Cristiano Ronaldo (1-0, tête magistrale d'En-Nesyri) en quarts. Le Maroc devient le premier pays africain et arabe de l'histoire à se qualifier en demi-finale d'une Coupe du Monde, s'inclinant avec les honneurs face à la France."
+    },
+    "tagline": "Histoire & Épopées",
+    "title": "L'Épopée Mondiale",
+    "description": "Le parcours du Maroc en Coupe du Monde est marqué par des exploits pionniers et une passion inébranlable. Découvrez les moments fondateurs qui ont mené aux sommets de 2022.",
+    "historic_feat": "Exploit Historique",
+    "first_african_semi": "1ère équipe africaine en Demi-finale",
+    "group_stage": "Phase de groupes",
+    "round_16": "Huitièmes de finale",
+    "semi_finals": "Demi-finale (4e)",
+    "best_result_val": "Demi-finale",
+    "host_label": "Hôte :"
+  },
+  "squad": {
+    "tagline": "L'Effectif",
+    "title": "Les Lions de l'Atlas 2026",
+    "description": "Découvrez la sélection officielle pour la Coupe du Monde. Cliquez sur un joueur pour retourner sa carte et voir ses statistiques détaillées. Les photos manquantes afficheront un avatar aux couleurs du Maroc.",
+    "filter_all": "Tous",
+    "filter_gk": "Gardiens",
+    "filter_df": "Défenseurs",
+    "filter_mf": "Milieux",
+    "filter_fw": "Attaquants",
+    "stats_title": "Statistiques",
+    "age_label": "Âge",
+    "caps_label": "Sélections",
+    "goals_label": "Buts",
+    "click_close": "Clic pour fermer",
+    "captain": "Capitaine",
+    "photo_instruction": "Déposez le fichier image sous le nom 'src/assets/[chemin]' pour remplacer l'avatar."
+  },
+  "players": {
+    "bounou": {
+      "name": "Yassine Bounou",
+      "bio": "Héros des tirs au but contre l'Espagne en 2022, 'Bono' est l'un des gardiens les plus sereins et respectés au monde, nommé pour le prix Yachine.",
+      "stat1": "Arrêts Clés",
+      "stat2": "Clean Sheets",
+      "stat3": "Penalties Arrêtés"
+    },
+    "elkajoui": {
+      "name": "Munir El Kajoui",
+      "bio": "Gardien chevronné d'une fiabilité absolue, toujours prêt à défendre les cages marocaines avec brio, évoluant désormais à la Renaissance de Berkane.",
+      "stat1": "Arrêts Clés",
+      "stat2": "Clean Sheets",
+      "stat3": "Matchs Joués"
+    },
+    "tagnaouti": {
+      "name": "Ahmed Reda Tagnaouti",
+      "bio": "Gardien d'expérience du championnat local à l'ASFAR, habitué des rassemblements et vainqueur de la Ligue des Champions africaine.",
+      "stat1": "Arrêts Clés",
+      "stat2": "Clean Sheets",
+      "stat3": "Matchs Joués"
+    },
+    "hakimi": {
+      "name": "Achraf Hakimi",
+      "bio": "Capitaine emblématique et l'un des meilleurs latéraux droits du monde. Connu pour sa vitesse supersonique et sa Panenka légendaire face à l'Espagne.",
+      "stat1": "Vitesse Max",
+      "stat2": "Tacles Réussis",
+      "stat3": "Centres Clés"
+    },
+    "mazraoui": {
+      "name": "Noussair Mazraoui",
+      "bio": "Défenseur extrêmement intelligent tactiquement, évoluant à Manchester United, capable de s'adapter à droite comme à gauche.",
+      "stat1": "Polyvalence",
+      "stat2": "Interceptions",
+      "stat3": "Précision Passes"
+    },
+    "aguerd": {
+      "name": "Nayef Aguerd",
+      "bio": "Le pilier de la défense centrale, évoluant désormais à l'Olympique de Marseille. Élégant dans la relance et impérial dans les airs.",
+      "stat1": "Duels Aériens",
+      "stat2": "Dégagements",
+      "stat3": "Passes Longues"
+    },
+    "riad": {
+      "name": "Chadi Riad",
+      "bio": "Jeune défenseur central prometteur évoluant en Premier League à Crystal Palace. Son sang-froid et son sens du placement en font l'avenir de la défense.",
+      "stat1": "Tacles Réussis",
+      "stat2": "Duels Gagnés",
+      "stat3": "Précision Relances"
+    },
+    "diop": {
+      "name": "Issa Diop",
+      "bio": "Défenseur central d'impact évoluant à Fulham en Premier League, apportant son physique imposant et son expérience du haut niveau anglais.",
+      "stat1": "Duels Aériens",
+      "stat2": "Tacles Réussis",
+      "stat3": "Dégagements"
+    },
+    "salaheddine": {
+      "name": "Anass Salah-Eddine",
+      "bio": "Jeune latéral gauche technique évoluant au PSV Eindhoven, doté d'une excellente relance et d'une projection offensive rapide.",
+      "stat1": "Interceptions",
+      "stat2": "Centres Clés",
+      "stat3": "Précision Passes"
+    },
+    "elouahdi": {
+      "name": "Zakaria El Ouahdi",
+      "bio": "Latéral dynamique du KRC Genk en Belgique, reconnu pour son endurance physique et sa capacité à arpenter le couloir droit.",
+      "stat1": "Vitesse Max",
+      "stat2": "Centres Réussis",
+      "stat3": "Tacles Gagnés"
+    },
+    "belammari": {
+      "name": "Youssef Belammari",
+      "bio": "Défenseur polyvalent d'Al Ahly, apportant une rigueur tactique et une grande réactivité lors des transitions défensives.",
+      "stat1": "Interceptions",
+      "stat2": "Duels Gagnés",
+      "stat3": "Relances Clés"
+    },
+    "halhal": {
+      "name": "Redouane Halhal",
+      "bio": "Défenseur central d'avenir évoluant au KV Malines en Belgique, doté d'un excellent sens du placement et de relances précises.",
+      "stat1": "Dégagements",
+      "stat2": "Duels Aériens",
+      "stat3": "Précision Passes"
+    },
+    "amrabat": {
+      "name": "Sofyan Amrabat",
+      "bio": "Le poumon et le guerrier du milieu de terrain, évoluant désormais sous les couleurs du Real Betis. Sa hargne sur le terrain inspire tout l'effectif.",
+      "stat1": "Distance Moyenne",
+      "stat2": "Récupérations",
+      "stat3": "Précision Passes"
+    },
+    "ounahi": {
+      "name": "Azzedine Ounahi",
+      "bio": "Milieu créatif et dribbleur hors-pair, évoluant sous les couleurs de Girona FC, apportant fluidité technique et vision de jeu d'élite.",
+      "stat1": "Dribbles Réussis",
+      "stat2": "Passes Clés",
+      "stat3": "Fluidité Jeu"
+    },
+    "elkhannouss": {
+      "name": "Bilal El Khannouss",
+      "bio": "Le prodige offensif du VfB Stuttgart. Doté d'une créativité rare et d'une agilité hors-norme pour déstabiliser les blocs défensifs.",
+      "stat1": "Création Occasions",
+      "stat2": "Passes Décisives",
+      "stat3": "Précision Passes"
+    },
+    "saibari": {
+      "name": "Ismael Saibari",
+      "bio": "Milieu offensif puissant et polyvalent du PSV Eindhoven, combinant force physique et une excellente frappe de balle.",
+      "stat1": "Buts Inscrits",
+      "stat2": "Duels Gagnés",
+      "stat3": "Dribbles Réussis"
+    },
+    "bouaddi": {
+      "name": "Ayyoub Bouaddi",
+      "bio": "La jeune pépite montante de 18 ans du LOSC Lille. Doté d'un calme et d'une maturité tactique remarquables qui ont séduit le staff national.",
+      "stat1": "Précision Passes",
+      "stat2": "Interceptions",
+      "stat3": "Duels Gagnés"
+    },
+    "elaynaoui": {
+      "name": "Neil El Aynaoui",
+      "bio": "Milieu box-to-box infatigable évoluant à l'AS Roma, doté d'une activité incessante à la récupération et d'une projection rapide vers l'avant.",
+      "stat1": "Kilomètres/90m",
+      "stat2": "Récupérations",
+      "stat3": "Fautes Provoquées"
+    },
+    "talbi": {
+      "name": "Chemsdine Talbi",
+      "bio": "Jeune milieu offensif agile évoluant à Sunderland en Angleterre, apportant une grande vivacité technique et de la créativité.",
+      "stat1": "Dribbles Réussis",
+      "stat2": "Passes Clés",
+      "stat3": "Vitesse Max"
+    },
+    "elmourabet": {
+      "name": "Samir El Mourabet",
+      "bio": "Meneur de jeu technique du RC Strasbourg, reconnu pour son intelligence tactique, sa qualité de passe et sa vision périphérique.",
+      "stat1": "Passes Décisives",
+      "stat2": "Création Tirs",
+      "stat3": "Précision Relances"
+    },
+    "gessime": {
+      "name": "Yassine Gessime",
+      "bio": "Milieu offensif rapide et percutant du RC Strasbourg, capable de déborder sur les ailes et de créer le décalage.",
+      "stat1": "Centres Clés",
+      "stat2": "Accélération",
+      "stat3": "Dribbles Réussis"
+    },
+    "diaz": {
+      "name": "Brahim Díaz",
+      "bio": "Le maestro offensif virevoltant du Real Madrid. Apporte une créativité, une accélération et une technique de classe mondiale à l'animation des Lions.",
+      "stat1": "Accélération",
+      "stat2": "Ratio Buts",
+      "stat3": "Dribbles Réussis"
+    },
+    "rahimi": {
+      "name": "Soufiane Rahimi",
+      "bio": "Meilleur buteur historique des JO de Paris 2024 avec Al-Ain FC. Joueur ultra-combatif, adroit devant le but et capable de débloquer n'importe quelle situation.",
+      "stat1": "Tirs Cadrés",
+      "stat2": "Vitesse Max",
+      "stat3": "Fautes Provoquées"
+    },
+    "ezzalzouli": {
+      "name": "Abdessamad Ezzalzouli",
+      "bio": "Ailier percutant et imprévisible du Real Betis, médaillé olympique, spécialiste du un-contre-un et des débordements sur l'aile gauche.",
+      "stat1": "Dribbles Gagnés",
+      "stat2": "Accélération",
+      "stat3": "Buts Inscrits"
+    },
+    "elkaabi": {
+      "name": "Ayoub El Kaabi",
+      "bio": "Buteur clinique d'Olympiacos et héros du sacre européen en Conference League. Un finisseur hors pair doué d'un placement exceptionnel.",
+      "stat1": "Efficacité Tirs",
+      "stat2": "Buts Sélection",
+      "stat3": "Vitesse Max"
+    },
+    "amaimouni": {
+      "name": "Ayoub Amaimouni",
+      "bio": "Jeune attaquant prometteur évoluant en Bundesliga à l'Eintracht Francfort, combinant puissance athlétique et grand sens du but.",
+      "stat1": "Buts Sélection",
+      "stat2": "Duels Aériens",
+      "stat3": "Efficacité Tir"
+    }
+  },
+  "legends": {
+    "tagline": "Hall of Fame",
+    "title": "Le Temple des Légendes",
+    "description": "Hommage aux figures éternelles du football marocain. Par leur talent et leur bravoure, ils ont pavé la voie aux générations futures sur la scène internationale.",
+    "hadji": {
+      "name": "Mustapha Hadji",
+      "caps_val": "64 sélections / 13 buts",
+      "distinction_val": "Ballon d'or Africain 1998",
+      "quote": "Porter ce maillot rouge et vert avec l'étoile a toujours été le plus grand honneur de ma vie. Nous jouions avec le cœur pour tout notre peuple.",
+      "bio": "Le symbole de la génération 1998. Son ciseau retourné contre la Norvège et son style de jeu soyeux ont marqué les mémoires du football international."
+    },
+    "naybet": {
+      "name": "Noureddine Naybet",
+      "caps_val": "115 sélections / 4 buts",
+      "distinction_val": "Recordman de capitanats",
+      "quote": "La rigueur et la discipline sont les fondations du succès. Être Lion de l'Atlas requiert un sacrifice total sur le terrain.",
+      "bio": "L'un des plus grands défenseurs de l'histoire du football africain. Légende du Deportivo La Corogne avec qui il a gagné la Liga, il a mené le Maroc dans 2 Coupes du Monde."
+    },
+    "bassir": {
+      "name": "Salaheddine Bassir",
+      "caps_val": "59 sélections / 27 buts",
+      "distinction_val": "2e meilleur buteur de l'histoire",
+      "quote": "Le rugissement du public marocain est une force invisible qui vous pousse à dépasser vos limites physiques.",
+      "bio": "Attaquant vif et extrêmement adroit devant le but. Ses deux buts légendaires contre l'Écosse lors du Mondial 1998 en France font partie du patrimoine sportif national."
+    },
+    "zaki": {
+      "name": "Badou Zaki",
+      "caps_val": "76 sélections",
+      "distinction_val": "Ballon d'or Africain 1986",
+      "quote": "Un gardien de but doit être le général de son armée. S'il ne tremble pas, personne ne tremble.",
+      "bio": "Le gardien de but légendaire et capitaine de l'épopée de 1986. Ses parades décisives contre l'Angleterre et le Portugal ont propulsé le Maroc au second tour au Mexique."
+    }
+  },
+  "staff": {
+    "tagline": "Direction Technique",
+    "title": "Le Staff de la Ranya",
+    "description": "L'architecture tactique et la force mentale des Lions reposent sur une équipe de professionnels soudés et passionnés.",
+    "coach_role": "Sélectionneur Principal",
+    "philosophy_title": "La Philosophie du Cœur",
+    "sub_staff_title": "Staff Technique de Soutien",
+    "federation_seal_title": "Fédération Royale Marocaine de Football",
+    "federation_seal_text": "En coordination avec la Direction Technique Nationale (DTN), ce groupe supervise la préparation physique, l'analyse vidéo tactique et les programmes nutritionnels des Lions de l'Atlas.",
+    "sacramento_role": "Entraîneur Adjoint",
+    "harrak_role": "Entraîneur des Gardiens",
+    "dominguez_role": "Préparateur Physique",
+    "ouahbi": {
+      "philosophy": "Le travail rigoureux des jeunes et la transition vers le haut niveau mondial. Le football marocain récolte les fruits d'une planification d'élite.",
+      "bio": "Nommé sélectionneur principal le 5 mars 2026 pour succéder à Walid Regragui. Ancien coach à succès des U20 marocains (qu'il a menés au titre mondial en 2025), Mohamed Ouahbi incarne la continuité stratégique et l'intégration de la jeune génération talentueuse pour l'échéance du Mondial 2026."
+    }
+  },
+  "stadiums": {
+    "tagline": "L'Ambiance & Les Arènes",
+    "title": "Stades & Ferveur 2026",
+    "description": "Du mythique Azteca au temple moderne de New York, découvrez les scènes où résonneront les chants des supporters marocains.",
+    "arena_title": "Les Arènes Hôtes",
+    "capacity_label": "places",
+    "fans_tag": "La Ferveur Nationale",
+    "fans_title": "La Passion Rouge & Verte",
+    "final_tag": "L'Arène de la Finale",
+    "metlife": {
+      "city": "New York / New Jersey (USA)",
+      "desc": "Le stade hôte de la grande finale de la Coupe du Monde 2026. Une enceinte monumentale dotée d'une technologie de pointe où les supporters marocains d'Amérique du Nord promettent une ambiance volcanique. Lieu du match inaugural historique contre le Brésil (1-1)."
+    },
+    "sofi": {
+      "city": "Los Angeles, Californie (USA)",
+      "desc": "Chef-d'œuvre architectural moderne avec son écran géant circulaire à double face suspendu. Ce stade futuriste accueillera certains des matchs les plus spectaculaires de la compétition."
+    },
+    "bcplace": {
+      "city": "Vancouver (Canada)",
+      "desc": "Stade doté d'un magnifique toit rétractable suspendu par câbles. Situé au cœur de la ville canadienne, il offre un cadre impressionnant et une résonance acoustique incroyable pour les chants des supporters."
+    },
+    "azteca": {
+      "city": "Mexico City (Mexique)",
+      "desc": "Le temple mythique du football mondial, premier stade à accueillir trois Coupes du Monde. C'est ici même que le Maroc a écrit sa légende lors des éditions de 1970 et 1986. Un lieu sacré chargé d'histoire."
+    }
+  },
+  "footer": {
+    "brand_desc": "Portail vitrine immersif dédié à l'épopée de l'équipe nationale de football du Maroc pour la Coupe du Monde de la FIFA 2026.",
+    "nav_title": "Navigation",
+    "fed_title": "Fédération",
+    "fed_text": "Pour suivre l'actualité officielle de la FRMF (Fédération Royale Marocaine de Football), visitez le portail de la fédération.",
+    "fed_button": "Site Officiel FRMF",
+    "copy_notice": "Site démo non-officiel à but de showcase portfolio. Tous droits réservés.",
+    "back_to_top": "Haut de page"
+  },
+  "loader": {
+    "loading_text": "Les Lions de l'Atlas se préparent..."
+  },
+  "matches": {
+    "tagline": "Calendrier & Match Center",
+    "title": "Le Chemin des Lions",
+    "description": "Suivez le parcours complet de l'équipe nationale, des éliminatoires jusqu'à la phase finale du Mondial 2026.",
+    "comp_qualifiers": "Qualif. Coupe du Monde",
+    "comp_worldcup": "Coupe du Monde 2026",
+    "opp_zambia": "Zambie",
+    "opp_congo": "Congo",
+    "opp_niger": "Niger",
+    "opp_mauritania": "Mauritanie",
+    "opp_tbd": "À déterminer (Tirage)",
+    "status_played": "Joué",
+    "status_upcoming": "À venir",
+    "status_tbd": "À déterminer",
+    "tab_all": "Tous les matchs",
+    "tab_played": "Matchs Joués",
+    "tab_upcoming": "À venir"
+  },
+  "news": {
+    "tagline": "Fils d'Actualités",
+    "title": "Dernières Nouvelles",
+    "description": "Restez informé de l'actualité des Lions de l'Atlas, de la préparation physique aux coulisses du rassemblement.",
+    "read_more": "Lire la suite",
+    "cat_prep": "Préparation",
+    "cat_interview": "Interview",
+    "cat_supporters": "Supporters",
+    "art1_title": "La préparation s'intensifie à Miami",
+    "art1_desc": "Le staff technique sous la direction de Mohamed Ouahbi a débuté le stage de préparation physique de haute intensité sous le soleil de la Floride.",
+    "art2_title": "Brahim Díaz : 'Prêts à rugir'",
+    "art2_desc": "Le meneur de jeu du Real Madrid s'est exprimé sur la cohésion du groupe et l'ambition débordante de l'équipe pour cette Coupe du Monde.",
+    "art3_title": "La ferveur rouge et verte s'organise",
+    "art3_desc": "Les associations de supporters marocains en Amérique du Nord préparent des tifos géants et des chants mythiques pour accueillir les Lions."
+  }
+}

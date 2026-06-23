@@ -1,0 +1,385 @@
+{
+  "nav": {
+    "home": "Home",
+    "history": "History",
+    "squad": "Squad",
+    "legends": "Legends",
+    "staff": "Staff",
+    "stadiums": "Stadiums",
+    "button": "2026 Squad"
+  },
+  "hero": {
+    "tagline": "FIFA World Cup 2026",
+    "title_1": "Lions",
+    "title_2": "of the Atlas",
+    "description": "Following the historic epic of Qatar in 2022, Morocco's national team prepares to roar once more across American, Canadian, and Mexican soil. Join the journey of a nation guided by passion and the dream of a star.",
+    "cta_discover": "Discover the Squad",
+    "cta_history": "Our History",
+    "countdown_title": "World Cup 2026",
+    "countdown_match": "Official Draw Pending",
+    "countdown_sub": "World Cup • Group Stage",
+    "matchday": "Match Day!",
+    "days": "Days",
+    "hours": "Hours",
+    "min": "Min",
+    "sec": "Sec"
+  },
+  "stats": {
+    "participations": "World Cup Appearances",
+    "best_result": "Best Result (Qatar 2022)",
+    "fifa_rank": "Current FIFA Ranking",
+    "african_first": "1st African & Arab Nation"
+  },
+  "history": {
+    "1970": {
+      "anecdote": "Morocco became the first African nation to qualify through direct qualifiers and made history by matching West Germany (narrow 2-1 defeat) and securing a 1-1 draw against Bulgaria."
+    },
+    "1986": {
+      "anecdote": "A resounding success! The Atlas Lions finished first in a tough group ahead of England, Poland, and Portugal (memorable 3-1 win). They were narrowly defeated in the round of 16 by West Germany via a late free kick by Lothar Matthäus (1-0). Morocco became the first African and Arab nation to reach this stage."
+    },
+    "1994": {
+      "anecdote": "Despite playing attractive football and having talented players, the team suffered three narrow defeats in a tough group containing Belgium, Saudi Arabia, and the Netherlands."
+    },
+    "1998": {
+      "anecdote": "A cruel journey. Led by an outstanding Mustapha Hadji, the Lions charmed the world. After a draw against Norway (2-2) and a loss to Brazil (3-0), they crushed Scotland (3-0). However, they were eliminated at the last minute due to a controversial penalty awarded to Norway against Brazil."
+    },
+    "2018": {
+      "anecdote": "Returning after a 20-year absence under Hervé Renard. The Atlas Lions displayed beautiful football but lacked efficiency. They held Spain to a 2-2 draw and suffered a tight 1-0 defeat to Ronaldo's Portugal despite dominating the match."
+    },
+    "2022": {
+      "anecdote": "The golden run that shook world football. First in their group (draw against Croatia, wins against Belgium 2-0 and Canada 2-1), Morocco then eliminated Spain on penalties in the round of 16 thanks to Bounou's heroic saves, and Cristiano Ronaldo's Portugal (1-0, En-Nesyri's header) in the quarters. Morocco became the first African and Arab country in history to reach the semi-finals, bowing out with honor against France."
+    },
+    "tagline": "History & Epics",
+    "title": "The World Cup Journey",
+    "description": "Morocco's path in the World Cup is shaped by pioneering achievements and unshakable passion. Relive the founding moments that led to the heights of 2022.",
+    "historic_feat": "Historic Feat",
+    "first_african_semi": "1st African Team in Semi-finals",
+    "group_stage": "Group Stage",
+    "round_16": "Round of 16",
+    "semi_finals": "Semi-final (4th)",
+    "best_result_val": "Semi-final",
+    "host_label": "Host:"
+  },
+  "squad": {
+    "tagline": "The Roster",
+    "title": "The Atlas Lions 2026",
+    "description": "Explore the official selection for the World Cup. Click on a player to flip their card and view detailed statistics. Missing photos will display a custom avatar in national colors.",
+    "filter_all": "All",
+    "filter_gk": "Goalkeepers",
+    "filter_df": "Defenders",
+    "filter_mf": "Midfielders",
+    "filter_fw": "Forwards",
+    "stats_title": "Statistics",
+    "age_label": "Age",
+    "caps_label": "Caps",
+    "goals_label": "Goals",
+    "click_close": "Click to close",
+    "captain": "Captain",
+    "photo_instruction": "Drop the image file named 'src/assets/[path]' to replace the avatar."
+  },
+  "players": {
+    "bounou": {
+      "name": "Yassine Bounou",
+      "bio": "Penalty shootout hero against Spain in 2022, 'Bono' is one of the most serene and respected goalkeepers in the world, nominated for the Yashin Trophy.",
+      "stat1": "Key Saves",
+      "stat2": "Clean Sheets",
+      "stat3": "Penalties Saved"
+    },
+    "elkajoui": {
+      "name": "Munir El Kajoui",
+      "bio": "A veteran goalkeeper of absolute reliability, always ready to defend the Moroccan goal with brilliance, now playing for Renaissance de Berkane.",
+      "stat1": "Key Saves",
+      "stat2": "Clean Sheets",
+      "stat3": "Matches Played"
+    },
+    "tagnaouti": {
+      "name": "Ahmed Reda Tagnaouti",
+      "bio": "Experienced local league goalkeeper playing for ASFAR, a regular at national call-ups and winner of the African Champions League.",
+      "stat1": "Key Saves",
+      "stat2": "Clean Sheets",
+      "stat3": "Matches Played"
+    },
+    "hakimi": {
+      "name": "Achraf Hakimi",
+      "bio": "Iconic captain and one of the best right-backs in the world. Known for his supersonic speed and his legendary Panenka penalty against Spain.",
+      "stat1": "Max Speed",
+      "stat2": "Tackles Won",
+      "stat3": "Key Crosses"
+    },
+    "mazraoui": {
+      "name": "Noussair Mazraoui",
+      "bio": "Tactically intelligent defender, playing for Manchester United, capable of adapting to both right and left fullback positions.",
+      "stat1": "Versatility",
+      "stat2": "Interceptions",
+      "stat3": "Passing Accuracy"
+    },
+    "aguerd": {
+      "name": "Nayef Aguerd",
+      "bio": "The defensive pillar, now playing for Olympique de Marseille. Elegant in build-up play and dominant in aerial duels.",
+      "stat1": "Aerial Duels",
+      "stat2": "Clearances",
+      "stat3": "Long Passes"
+    },
+    "riad": {
+      "name": "Chadi Riad",
+      "bio": "Promising young center-back playing in the Premier League for Crystal Palace. His composure and positioning make him the future of the defense.",
+      "stat1": "Tackles Won",
+      "stat2": "Duels Won",
+      "stat3": "Build-up Accuracy"
+    },
+    "diop": {
+      "name": "Issa Diop",
+      "bio": "Rigorous Premier League center-back playing for Fulham, bringing physical power and elite English league experience.",
+      "stat1": "Aerial Duels",
+      "stat2": "Tackles Won",
+      "stat3": "Clearances"
+    },
+    "salaheddine": {
+      "name": "Anass Salah-Eddine",
+      "bio": "Promising young left-back playing for PSV Eindhoven, blessed with excellent ball distribution and rapid forward runs.",
+      "stat1": "Interceptions",
+      "stat2": "Key Crosses",
+      "stat3": "Passing Accuracy"
+    },
+    "elouahdi": {
+      "name": "Zakaria El Ouahdi",
+      "bio": "Dynamic wing-back from KRC Genk in Belgium, highly recognized for his physical endurance and ability to work the right flank.",
+      "stat1": "Max Speed",
+      "stat2": "Key Crosses",
+      "stat3": "Tackles Won"
+    },
+    "belammari": {
+      "name": "Youssef Belammari",
+      "bio": "Modern full-back playing for Al Ahly, bringing tactical discipline and high reactivity during defensive transitions.",
+      "stat1": "Interceptions",
+      "stat2": "Duels Won",
+      "stat3": "Key Passes"
+    },
+    "halhal": {
+      "name": "Redouane Halhal",
+      "bio": "Promising central defender playing for KV Mechelen in Belgium, known for his positional awareness and clean passing.",
+      "stat1": "Clearances",
+      "stat2": "Aerial Duels",
+      "stat3": "Passing Accuracy"
+    },
+    "amrabat": {
+      "name": "Sofyan Amrabat",
+      "bio": "The midfield engine and warrior, now playing for Real Betis. His tenacity on the pitch inspires the entire squad.",
+      "stat1": "Avg Distance",
+      "stat2": "Ball Recoveries",
+      "stat3": "Passing Accuracy"
+    },
+    "ounahi": {
+      "name": "Azzedine Ounahi",
+      "bio": "Creative midfielder with silky ball control and exceptional vision, now playing for Spanish club Girona FC.",
+      "stat1": "Dribbles Completed",
+      "stat2": "Key Passes",
+      "stat3": "Play Fluidity"
+    },
+    "elkhannouss": {
+      "name": "Bilal El Khannouss",
+      "bio": "Attacking midfield prodigy playing in Bundesliga for VfB Stuttgart. Gifted with rare creativity to unlock defensive blocks.",
+      "stat1": "Chances Created",
+      "stat2": "Assists",
+      "stat3": "Passing Accuracy"
+    },
+    "saibari": {
+      "name": "Ismael Saibari",
+      "bio": "Powerful and versatile attacking midfielder from PSV Eindhoven, combining physical strength with a clinical strike.",
+      "stat1": "Goals",
+      "stat2": "Duels Won",
+      "stat3": "Dribbles Completed"
+    },
+    "bouaddi": {
+      "name": "Ayyoub Bouaddi",
+      "bio": "The new 18-year-old rising star of LOSC Lille. Blessed with remarkable calm and tactical maturity that won over the national team staff.",
+      "stat1": "Passing Accuracy",
+      "stat2": "Interceptions",
+      "stat3": "Duels Won"
+    },
+    "elaynaoui": {
+      "name": "Neil El Aynaoui",
+      "bio": "Relentless box-to-box midfielder playing for AS Roma in Italy, known for his recovery work and transition play.",
+      "stat1": "Distance/90m",
+      "stat2": "Recoveries",
+      "stat3": "Fouls Drawn"
+    },
+    "talbi": {
+      "name": "Chemsdine Talbi",
+      "bio": "Agile young attacking midfielder playing for Sunderland in England, bringing technical flair and creativity.",
+      "stat1": "Dribbles Completed",
+      "stat2": "Key Passes",
+      "stat3": "Max Speed"
+    },
+    "elmourabet": {
+      "name": "Samir El Mourabet",
+      "bio": "Technical playmaker playing for RC Strasbourg, recognized for tactical intelligence and excellent passing vision.",
+      "stat1": "Assists",
+      "stat2": "Shots Created",
+      "stat3": "Build-up Accuracy"
+    },
+    "gessime": {
+      "name": "Yassine Gessime",
+      "bio": "Fast and direct attacking midfielder for RC Strasbourg, capable of stretching defenses along the flanks.",
+      "stat1": "Key Crosses",
+      "stat2": "Acceleration",
+      "stat3": "Dribbles Completed"
+    },
+    "diaz": {
+      "name": "Brahim Díaz",
+      "bio": "The dazzling attacking playmaker from Real Madrid. Brings world-class creativity, acceleration, and technique to the Lions' offense.",
+      "stat1": "Acceleration",
+      "stat2": "Goals Ratio",
+      "stat3": "Dribbles Completed"
+    },
+    "rahimi": {
+      "name": "Soufiane Rahimi",
+      "bio": "Top scorer of the Paris 2024 Olympic Games with Al-Ain FC. An ultra-combative forward, highly clinical in front of goal.",
+      "stat1": "Shots on Target",
+      "stat2": "Max Speed",
+      "stat3": "Fouls Drawn"
+    },
+    "ezzalzouli": {
+      "name": "Abdessamad Ezzalzouli",
+      "bio": "Dynamic and unpredictable winger playing for Real Betis, Olympic medalist, specialist in 1v1 duels and dribbles.",
+      "stat1": "Dribbles Won",
+      "stat2": "Acceleration",
+      "stat3": "Goals"
+    },
+    "elkaabi": {
+      "name": "Ayoub El Kaabi",
+      "bio": "Clinical striker for Olympiacos and hero of their historic Conference League victory. An outstanding finisher with exceptional movement.",
+      "stat1": "Shot Efficiency",
+      "stat2": "International Goals",
+      "stat3": "Max Speed"
+    },
+    "amaimouni": {
+      "name": "Ayoub Amaimouni",
+      "bio": "Promising young forward playing in Bundesliga for Eintracht Frankfurt, combining physical power with clinical finishing.",
+      "stat1": "Goals",
+      "stat2": "Aerial Duels",
+      "stat3": "Shot Efficiency"
+    }
+  },
+  "legends": {
+    "tagline": "Hall of Fame",
+    "title": "The Temple of Legends",
+    "description": "A tribute to the eternal figures of Moroccan football. Through their talent and bravery, they paved the way for future generations on the international stage.",
+    "hadji": {
+      "name": "Mustapha Hadji",
+      "caps_val": "64 caps / 13 goals",
+      "distinction_val": "African Footballer of the Year 1998",
+      "quote": "Wearing this red and green shirt with the star has always been the greatest honor of my life. We played with heart for all our people.",
+      "bio": "The symbol of the 1998 generation. His bicycle kick against Norway and his silky playstyle are forever etched in international football history."
+    },
+    "naybet": {
+      "name": "Noureddine Naybet",
+      "caps_val": "115 caps / 4 goals",
+      "distinction_val": "Captaincy Record Holder",
+      "quote": "Rigor and discipline are the foundations of success. Being an Atlas Lion requires total sacrifice on the pitch.",
+      "bio": "One of the greatest defenders in African football history. A Deportivo La Coruña legend with whom he won La Liga, he captained Morocco in 2 World Cups."
+    },
+    "bassir": {
+      "name": "Salaheddine Bassir",
+      "caps_val": "59 caps / 27 goals",
+      "distinction_val": "2nd All-Time Top Scorer",
+      "quote": "The roar of the Moroccan crowd is an invisible force that pushes you beyond your physical limits.",
+      "bio": "A swift striker, extremely clinical in front of goal. His two legendary goals against Scotland in the 1998 World Cup in France are part of the nation's sports heritage."
+    },
+    "zaki": {
+      "name": "Badou Zaki",
+      "caps_val": "76 caps",
+      "distinction_val": "African Footballer of the Year 1986",
+      "quote": "A goalkeeper must be the general of his army. If he doesn't tremble, no one trembles.",
+      "bio": "The legendary goalkeeper and captain of the 1986 squad. His decisive saves against England and Portugal propelled Morocco to the second round in Mexico."
+    }
+  },
+  "staff": {
+    "tagline": "Technical Direction",
+    "title": "The Ranya Coaching Staff",
+    "description": "The tactical structure and mental strength of the Lions are built upon a dedicated and passionate team of professionals.",
+    "coach_role": "Head Coach",
+    "philosophy_title": "The Philosophy of the Heart",
+    "sub_staff_title": "Technical Support Staff",
+    "federation_seal_title": "Royal Moroccan Football Federation",
+    "federation_seal_text": "In coordination with the National Technical Directorate (DTN), this team oversees physical preparation, tactical video analysis, and nutritional programs for the Atlas Lions.",
+    "sacramento_role": "Assistant Coach",
+    "harrak_role": "Goalkeeper Coach",
+    "dominguez_role": "Fitness Coach",
+    "ouahbi": {
+      "philosophy": "Rigorous development of youth and seamless transition to the elite global level. Moroccan football is harvesting the fruits of top-tier planning.",
+      "bio": "Appointed head coach on March 5, 2026, to succeed Walid Regragui. A highly successful former coach of the Moroccan U20 side (leading them to a world title in 2025), Mohamed Ouahbi embodies strategic continuity and the integration of a talented young generation for the 2026 World Cup."
+    }
+  },
+  "stadiums": {
+    "tagline": "Ambiance & Arenas",
+    "title": "Stadiums & Fervor 2026",
+    "description": "From the legendary Azteca to the modern temple of New York, discover the venues where the chants of Moroccan supporters will echo.",
+    "arena_title": "Host Arenas",
+    "capacity_label": "seats",
+    "fans_tag": "National Fervor",
+    "fans_title": "Red & Green Passion",
+    "final_tag": "The Final Arena",
+    "metlife": {
+      "city": "New York / New Jersey (USA)",
+      "desc": "The host stadium for the grand final of the 2026 World Cup. A monumental arena equipped with cutting-edge technology, where Moroccan fans in North America promise an electric atmosphere. Location of the historic opening match draw against Brazil (1-1)."
+    },
+    "sofi": {
+      "city": "Los Angeles, California (USA)",
+      "desc": "A modern architectural masterpiece featuring a suspended double-sided circular screen. This futuristic arena will host some of the tournament's most spectacular matches."
+    },
+    "bcplace": {
+      "city": "Vancouver (Canada)",
+      "desc": "A stadium featuring a magnificent cable-supported retractable roof. Located in the heart of the Canadian city, it offers a stunning setting and incredible acoustics for supporter chants."
+    },
+    "azteca": {
+      "city": "Mexico City (Mexico)",
+      "desc": "The legendary temple of world football, the first stadium to host three World Cups. This is where Morocco wrote its legend in 1970 and 1986. A sacred place steeped in history."
+    }
+  },
+  "footer": {
+    "brand_desc": "An immersive showcase portal dedicated to the journey of the Moroccan national football team for the FIFA World Cup 2026.",
+    "nav_title": "Navigation",
+    "fed_title": "Federation",
+    "fed_text": "To follow the official updates from the FRMF (Royal Moroccan Football Federation), visit the federation portal.",
+    "fed_button": "FRMF Official Site",
+    "copy_notice": "Non-official demo website for portfolio showcase. All rights reserved.",
+    "back_to_top": "Back to top"
+  },
+  "loader": {
+    "loading_text": "The Atlas Lions are preparing..."
+  },
+  "matches": {
+    "tagline": "Schedule & Match Center",
+    "title": "The Lions' Path",
+    "description": "Follow the national team's complete journey, from the qualifiers to the World Cup 2026 group stage.",
+    "comp_qualifiers": "World Cup Qualifiers",
+    "comp_worldcup": "World Cup 2026",
+    "opp_zambia": "Zambia",
+    "opp_congo": "Congo",
+    "opp_niger": "Niger",
+    "opp_mauritania": "Mauritania",
+    "opp_tbd": "To Be Determined (Draw)",
+    "status_played": "Played",
+    "status_upcoming": "Upcoming",
+    "status_tbd": "TBD",
+    "tab_all": "All Matches",
+    "tab_played": "Played",
+    "tab_upcoming": "Upcoming"
+  },
+  "news": {
+    "tagline": "News Feed",
+    "title": "Latest Updates",
+    "description": "Stay informed about the Atlas Lions, from physical preparation to behind-the-scenes camp updates.",
+    "read_more": "Read More",
+    "cat_prep": "Preparation",
+    "cat_interview": "Interview",
+    "cat_supporters": "Supporters",
+    "art1_title": "Preparation Intensifies in Miami",
+    "art1_desc": "The technical staff under Mohamed Ouahbi has launched the high-intensity physical camp under the Florida sun.",
+    "art2_title": "Brahim Díaz: 'Ready to Roar'",
+    "art2_desc": "The Real Madrid playmaker spoke about the team's cohesion and their overflowing ambition for this World Cup.",
+    "art3_title": "Red & Green Fervor Organizing",
+    "art3_desc": "Moroccan fan associations in North America are preparing giant tifos and historic chants to welcome the Lions."
+  }
+}
